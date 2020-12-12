@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",GTV H
 http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="Bangla News",Jamuna Tv
